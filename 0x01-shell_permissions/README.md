@@ -33,14 +33,14 @@ The file olleh will be in the working directory
 
 [11-directories_permissions](./11-directories_permissions) - Create a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
 
-[12-directory_permissions](./12-directory_permissions) - Create a script that creates a directory called dir_holberton with permissions 751 in the working directory.
+[12-directory_permissions](./12-directory_permissions) - Create a script that creates a directory called dir_main with permissions 751 in the working directory.
 
-[13-change_group](./13-change_group) - Write a script that changes the group owner to holberton for the file hello
+[13-change_group](./13-change_group) - Write a script that changes the group owner to main for the file hello
 The file hello will be in the working directory
 
-[14-change_owner_and_group](./14-change_owner_and_group) - Write a script that changes the owner to betty and the group owner to holberton for all the files and directories in the working directory.
+[14-change_owner_and_group](./14-change_owner_and_group) - Write a script that changes the owner to betty and the group owner to main for all the files and directories in the working directory.
 
-[15-symbolic_link_permissions](./15-symbolic_link_permissions) - Write a script that changes the owner and the group owner of the file _hello to betty and holberton respectively.
+[15-symbolic_link_permissions](./15-symbolic_link_permissions) - Write a script that changes the owner and the group owner of the file _hello to betty and main respectively.
 The file _hello is in the working directory
 The file _hello is a symbolic link
 
@@ -49,4 +49,4 @@ The file hello will be in the working directory
 
 [100-Star_Wars](./100-Star_Wars) - Write a script that will play the StarWars IV episode in the terminal.
 
-[101-man_holberton](./101-man_holberton) - Create a man that looks exactly like this one and passes all checks.
+[101-man_main](./101-man_main) - Create a man that looks exactly like this one and passes all checks.
